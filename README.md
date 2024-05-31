@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @singhaman18
+- 👋 Hi, I’m Aman Singh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
